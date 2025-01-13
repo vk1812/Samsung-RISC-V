@@ -13,6 +13,6 @@
 ### Compiled C code
 ### RISCV Object dump for optimization level -Ofast
 ![c code](https://github.com/user-attachments/assets/5715ca64-c1fa-4740-8a46-0a075028786e)
-![riscv_Ofast] (https://github.com/user-attachments/assets/1f2eefa6-37a3-45b7-9c02-9ee7f4699055)
+![riscv_Ofast](https://github.com/user-attachments/assets/1f2eefa6-37a3-45b7-9c02-9ee7f4699055)
 ![risc_code](https://github.com/user-attachments/assets/db5bfd5c-a615-4710-8273-37782c1f813d)
 
